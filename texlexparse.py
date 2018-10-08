@@ -1,10 +1,3 @@
-# -----------------------------------------------------------------------------
-# calc.py
-#
-# A simple calculator with variables.   This is from O'Reilly's
-# "Lex and Yacc", p. 63.
-# -----------------------------------------------------------------------------
-
 import sys
 import logging
 #sys.path.insert(0, "../..")
